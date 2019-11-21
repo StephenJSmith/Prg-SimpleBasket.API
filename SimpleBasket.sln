@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBasket.API", "SimpleBasket.API\SimpleBasket.API.csproj", "{184E47C4-1B5C-4971-A6E3-9DC85BF0F7EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{184E47C4-1B5C-4971-A6E3-9DC85BF0F7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184E47C4-1B5C-4971-A6E3-9DC85BF0F7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184E47C4-1B5C-4971-A6E3-9DC85BF0F7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184E47C4-1B5C-4971-A6E3-9DC85BF0F7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA68610C-DED3-4691-9BD2-46BB883D41E6}
+	EndGlobalSection
+EndGlobal
